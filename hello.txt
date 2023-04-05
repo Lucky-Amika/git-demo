@@ -7,4 +7,4 @@ hello Jini! hello git!
 hello Jini! hello git!
 hello Jini! hello git!
 hello Jini! hello git!
-hello Jini! hello git!
+hello Jini! hello git! hot-fix test
